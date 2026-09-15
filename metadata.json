@@ -1,0 +1,6 @@
+{
+  "name": "WanderPulse: AI Trip Planner for India",
+  "description": "Plan any India trip in minutes at wanderpulse.com. Day-by-day itineraries with real INR prices, transport, and hidden gems from Ladakh to Kanyakumari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

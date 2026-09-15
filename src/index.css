@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #f7f4ec;
+  --color-foreground: #2a1a3d;
+  --color-card: #ffffff;
+  --color-card-fg: #2a1a3d;
+  --color-muted: #efeadb;
+  --color-muted-fg: #6b5b7a;
+  --color-accent: #a985d9;
+  --color-accent-2: #c9b4e8;
+  --color-accent-3: #7a5cb8;
+  --color-marigold: #e9b949;
+  --color-marigold-foreground: #6b4c05;
+  --color-border: #e5dfd0;
+  --color-ink: #2a1a3d;
+  --font-display: "Bricolage Grotesque", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+:root {
+  --background: #f7f4ec;
+  --foreground: #2a1a3d;
+  --card: #ffffff;
+  --card-fg: #2a1a3d;
+  --muted: #efeadb;
+  --muted-fg: #6b5b7a;
+  --accent: #a985d9;
+  --accent-2: #c9b4e8;
+  --accent-3: #7a5cb8;
+  --marigold: #e9b949;
+  --border: #e5dfd0;
+  --hero-heading: #2a1a3d;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: "Plus Jakarta Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: "Bricolage Grotesque", sans-serif;
+  letter-spacing: -0.02em;
+}
+
+/* Custom scrollbars */
+.scroll-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scroll-thin::-webkit-scrollbar-thumb {
+  background: rgba(42, 26, 61, 0.15);
+  border-radius: 4px;
+}
+.scroll-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+

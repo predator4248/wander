@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="230" viewBox="0 0 218 230" role="img" aria-label="Winnie standalone kite symbol">
+  <title>Winnie standalone kite symbol</title>
+  <g transform="translate(-481 -242)">
+    <g>
+      <path d="M 568,314.5 L 639.5,262.5 L 617.6,329.3 Z" fill="#7A5CB8" />
+      <path d="M 646.1,265.8 L 674.0,346.5 L 624.1,331.1 Z" fill="#C9B4E8" />
+      <path d="M 564.9,321.6 L 616.0,337.0 L 592.4,407.9 Z" fill="#7A5CB8" />
+      <path d="M 623.0,339.2 L 671.0,353.0 L 599.0,405.7 Z" fill="#C9B4E8" />
+      <path d="M 592.0,412.4 C 581.0,426.0 565.0,428.0 546.0,428.0 C 525.0,428.0 511.0,435.0 504.4,447.0" fill="none" stroke="#7A5CB8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+</svg>
